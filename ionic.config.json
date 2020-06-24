@@ -1,0 +1,7 @@
+{
+  "name": "state-ioniconf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
